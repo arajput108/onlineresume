@@ -1,0 +1,130 @@
+@media screen and (main-width: 1024px)
+{
+    
+}
+@media screen and (min-width: 767px) and (max-width: 1023px)
+{
+
+}
+
+#position {
+    color: deeppink;
+    font-family: Arial;
+    font-size: 18px;
+}
+.summary {
+    font-size: 16px; 
+    padding-bottom: 50px;       
+}
+h2{
+    color: #2F5A78;
+    font-size: 1.4em;
+}
+body {
+    font-family: Arial;
+}
+#postion {
+    font-size: 2px;
+    font-weight: 100;
+}
+h1 {
+    font-size: 2em;
+    text-transform: uppercase;
+}
+.summary {
+    font-size: 1em;
+    line-height: 20px;
+}
+header {
+    text-align: center;
+}
+#copyright {
+    text-align: center;
+}
+section, footer {
+    padding: 2px 10px;
+}
+ul {
+    margin: 0px;
+} 
+h2{
+    font-size: 20px;
+    color: #2F5A78;
+    padding-bottom: 2px;
+    border-bottom: 1px solid #2F5A78;
+}
+header {
+    padding-top: 2px;
+    padding-bottom: 2px;
+    background-color:white;
+    text-align: center;
+}
+footer{
+    background-color: grey;
+}
+li b{
+    color: #FFFFFF;
+}
+li{
+    margin-bottom: 5px;
+}
+footer a{
+    color: darkblue; 
+    text-decoration: none;
+}
+footer a:hover{
+    text-decoration: underline;
+}
+table{
+    border-collapse: collapse;
+}
+td,th{
+    border: 1px solid #000000;
+    padding: 5px;
+}
+th{
+    background-color: #2F5A78;
+    color: #FFFFFF;
+}
+input[type= 'text'], input[text= 'email']{
+    border: 1px solid #2F5A78;
+    width: 150px;
+    padding: 5px;
+    margin-bottom: 5px;
+}
+textarea{
+    border: 1px solid #2F5A78;
+    width: 203px;
+    padding: 5px;
+    margin-bottom: 5px;
+}
+label{
+    font-weight: 700;
+    color: #2F5A78;
+}
+input[type= 'submit']{
+    background-color: #2F5A78;
+    border: none;
+    border-radius: 7px;
+    padding: 7px 15px;
+    font-weight: 700;
+    color: white;
+    margin-bottom: 7px;
+}
+body{
+    font-family: Arial;
+    margin-top: 100px;
+}
+header{
+    text-align: center;
+    background-color: white;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+.summary img{
+    float: right;
+}
