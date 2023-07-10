@@ -127,10 +127,7 @@ header{
 }
 .summary img{
     float: right;
-}
-.summary img {
-  float: right;
-  transition: transform 1s ease; 
+    transition: transform 1s ease; 
 }
 .summary img:hover {
   transform: scale(1.3);
